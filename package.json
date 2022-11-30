@@ -4,7 +4,7 @@
   "description": "Question Paper Database",
   "main": "bot.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "npm install && node bot.js"
   },
   "repository": {
     "type": "git",
