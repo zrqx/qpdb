@@ -1,0 +1,4 @@
+API_TOKEN=''
+DB_URI=''
+ADMIN_ID='' # For Authorising files
+REVIEW_GROUP_ID='' # Telegram Group with Bot as Admin
